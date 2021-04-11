@@ -260,7 +260,7 @@
               <div class="portfolio-image"> 
                 
                 <a href="#."> 
-                     <img class="img-responsive" src="{!! asset('images/portfolio/view-all.jpg') !!}" alt=""> 
+                  <img class="img-responsive" src="{!! asset('images/portfolio/view-all.jpg') !!}" alt=""> 
                 </a>
               
                 <div class="position-center-center">
